@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969526134280",
+    "project_id": "blooddonation-idonate",
+    "storage_bucket": "blooddonation-idonate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969526134280:android:a9f1ae0a30fc886fbd73bd",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5SxbfhH-llyl4Hdbx-F4phwbXrkbrHGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
