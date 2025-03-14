@@ -5,13 +5,13 @@
 
 **🚀 Introduction**
 
-The Blood Donor Classifier is an innovative project that leverages the Hybrid Naïve Bayes Decision Tree Algorithm (HNBDT) to efficiently categorize potential blood donors based on specific blood type requirements. Achieving an impressive 75% accuracy, this project simplifies and streamlines donor classification for blood donation services.
+The Blood Donor Classifier is an innovative project that leverages the Hybrid Naïve Bayes Decision Tree Algorithm (HNBDT) to efficiently categorize potential blood donors based on specific blood type requirements. Achieving an impressive 89% accuracy, this project simplifies and streamlines donor classification for blood donation services.
 
 **🌟 Key Features**
 
 ✅ Machine Learning Integration: Implemented the HNBDT Algorithm combining the power of Naïve Bayes and Decision Tree techniques.
 
-✅ High Accuracy: Achieved a commendable 75% accuracy in predicting donor classifications.
+✅ High Accuracy: Achieved a commendable 89% accuracy in predicting donor classifications.
 
 ✅ Interactive Android App: Developed using React Native for intuitive user experience.
 
